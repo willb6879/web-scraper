@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+ram_scraper.egg-info/PKG-INFO
+ram_scraper.egg-info/SOURCES.txt
+ram_scraper.egg-info/dependency_links.txt
+ram_scraper.egg-info/top_level.txt
+web_scraping/__init__.py
+web_scraping/ram_data.csv
+web_scraping/ram_scraper.py
