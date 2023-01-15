@@ -2,6 +2,9 @@
 ## Purpose
 This is a python library for dealing with extracting RAM module and spot prices off the dramexchange.com website every 24 hours. Places data in a csv file.
 
+## Important Notes
+* Make sure you have the latest version of python installed in order to run the scraper
+
 ## Installation
 ### For Linux
 1. Open command line
