@@ -3,7 +3,7 @@
 This is a python library for dealing with extracting RAM module and spot prices off the dramexchange.com website every 24 hours. Places data in a csv file.
 
 ## Important Notes
-* Make sure you have the latest version of python installed in order to run the scraper
+* Make sure you have python installed in order to run the scraper
   * Video for installation - https://www.youtube.com/watch?v=4bUOrMj88Pc
 * Have git installed on windows 
   * Video for installation - https://www.youtube.com/watch?v=wSGuir8BUeU
