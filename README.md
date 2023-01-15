@@ -4,7 +4,8 @@ This is a python library for dealing with extracting RAM module and spot prices 
 
 ## Important Notes
 * Make sure you have the latest version of python installed in order to run the scraper
-* Have git installed on windows
+* Have git installed on windows (video below shows how to)
+  * https://www.youtube.com/watch?v=wSGuir8BUeU
 
 ## Installation
 ### For Linux
