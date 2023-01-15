@@ -37,8 +37,7 @@ This is a python library for dealing with extracting RAM module and spot prices 
 ### Windows
 1. Create shell file
 * First create a .sh file in the /home/<user> directory
-* In this .sh file, enter "cd <path to 'web_scraping' file in package>" so we can access both the ram_data.csv file and ram_scraper.py files
-* Next, in the .sh file, write "python3 ram_scraper.py" to run the scraper
+* In the .sh file, write "python ram_scraper.py" to run the scraper
 * Save the file 
 * Remember to keep this in the /home/<user> directory
 
@@ -47,7 +46,7 @@ This is a python library for dealing with extracting RAM module and spot prices 
 * In the right screen, click on 'Create Basic Task'
 * Set a 'name' for the task
 * Set a 'trigger' to specify the schedule you wish to have the scraping performed
-* Set an 'action' to run your .sh file (specify path)
+* Set an 'action' to run your .sh file (specify the path where you placed the .sh file)
 * Click 'Next' and you are finished! The scraper will run as a scheduled task
 
 ## LICENSE
