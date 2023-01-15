@@ -35,18 +35,12 @@ This is a python library for dealing with extracting RAM module and spot prices 
 * Your are all done! The scraper will now run as a scheduled task
 
 ### Windows
-1. Create shell file
-* First create a .sh file in the /home/<user> directory
-* In the .sh file, write "python ram_scraper.py" to run the scraper
-* Save the file 
-* Remember to keep this in the /home/<user> directory
-
-2. Use Windows Task Scheduler to schedule scraping task
+1. Use Windows Task Scheduler to schedule scraping task
 * Open windows explorer and enter 'Task Scheduler'
 * In the right screen, click on 'Create Basic Task'
-* Set a 'name' for the task
+* Set a 'name' for the task 
 * Set a 'trigger' to specify the schedule you wish to have the scraping performed
-* Set an 'action' to run your .sh file (specify the path where you placed the .sh file)
+* Set an 'action' to run ram_scraper.py file
 * Click 'Next' and you are finished! The scraper will run as a scheduled task
 
 ## LICENSE
