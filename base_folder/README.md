@@ -12,7 +12,7 @@ This is a python library for dealing with extracting RAM module and spot prices 
 ### For Linux
 1. Open command line
 2. Enter ```cd <filepath>``` to the location you wish to put package
-3. Enter "git clone https://github.com/willb6879/web-scraper.git"
+3. Enter ```git clone https://github.com/willb6879/web-scraper.git```
 
 ### For Windows
 1. Open command line
@@ -24,7 +24,7 @@ This is a python library for dealing with extracting RAM module and spot prices 
 1. Create shell file
 * First create a .sh file in the ```/home/<user>``` directory
 * In this .sh file, enter ```cd <path to 'web_scraping' file in package>``` so we can access both the ram_data.csv file and ram_scraper.py files
-* Next, in the .sh file, write "python3 ram_scraper.py" to run the scraper
+* Next, in the .sh file, write ```python3 ram_scraper.py``` to run the scraper
 * Save the file 
 * Remember to keep this in the ```/home/<user>``` directory
 
@@ -68,3 +68,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
