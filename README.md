@@ -17,7 +17,7 @@ This is a python library for dealing with extracting RAM module and spot prices 
 ### For Windows
 1. Open command line
 2. Enter ```cd <filepath>``` to the location you wish to put package
-3. Enter "git clone https://github.com/willb6879/web-scraper.git"
+3. Enter ```git clone https://github.com/willb6879/web-scraper.git```
 
 ## Automating the web scraper
 ### Linux
